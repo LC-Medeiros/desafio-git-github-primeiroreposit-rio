@@ -1,2 +1,2 @@
-# desafio-git-github-primeiroreposit-rio
+# desafio-git-github-primeirorepositório
 desafio do curso git/github
